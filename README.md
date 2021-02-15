@@ -3,7 +3,7 @@
 ## Purpose
 Allow users to generate their own visualizations of the covid-19 pandemic, comparing timeseries for countries, states, and US counties.
 
-<img width="1438" alt="covid19-charts" src="https://user-images.githubusercontent.com/26728779/80646645-fbb94b80-8a21-11ea-865a-c7c587a6584d.png">
+<img width="1438" alt="covid19-charts" src="https://user-images.githubusercontent.com/26728779/107903375-0c708900-6f84-11eb-999f-6eb274fa2855.png">
 
 ## Requirements
 1. have access to command line on your computer
